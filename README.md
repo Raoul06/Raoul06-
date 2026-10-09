@@ -1,17 +1,17 @@
-👋 Salut, moi c’est Raoul Lontsie !
+# 👋 Salut, moi c’est Raoul Lontsie !
 
-💻 Étudiant en Master Informatique et Systèmes Intelligents
+### 💻 Étudiant en Master Informatique et Systèmes Intelligents
 
-🎓 Étudiant à la Faculté des Sciences de l’Université de Bertoua, au Cameroun, je m’intéresse à l’informatique, au développement web et mobile, aux réseaux informatiques et au design graphique.
+🎓 Étudiant à la **Faculté des Sciences de l’Université de Bertoua**, au Cameroun, je m’intéresse à l’informatique, au développement web et mobile, aux réseaux informatiques et au design graphique.
 
 Je cherche à développer mes compétences, à réaliser des projets innovants et à contribuer à des projets informatiques.
 
 ---
 
-👨‍💻 À propos de moi
+## 👨‍💻 À propos de moi
 
 - 🎓 Étudiant en Master Informatique et Systèmes Intelligents.
-- 💻 Intérêt pour le développement web et mobile.
+- 💻 Intéressé par le développement web et mobile.
 - 🌐 Connaissances en HTML, CSS et MySQL.
 - 🛠️ Compétences en maintenance informatique et configuration réseau.
 - 🎨 Passionné par l’infographie et la création graphique.
@@ -20,56 +20,48 @@ Je cherche à développer mes compétences, à réaliser des projets innovants e
 
 ---
 
-🛠️ Compétences techniques
+## 🛠️ Compétences techniques
 
-🌐 Développement
+### 🌐 Développement web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- HTML
-- CSS
-- MySQL (bases)
-
-🖥️ Informatique et réseaux
-
+### 🖥️ Informatique et systèmes
 - Maintenance informatique
 - Installation et configuration de réseaux informatiques
 - Configuration des équipements informatiques
 
-🎨 Design graphique
-
+### 🎨 Design graphique
 - Infographie
 - Création de supports visuels
 
-🧰 Outils
-
-- Android Studio
-- TeXstudio
-- Microsoft Office
-- Windows
+### 🧰 Outils
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-🎓 Formation
+## 🎓 Formation
 
-- Master Informatique et Systèmes Intelligents — Faculté des Sciences, Université de Bertoua (en cours).
-- Licence en Informatique fondamentale — Université de Bertoua.
-- Baccalauréat série C — Collège Adventiste Bilingue de Bertoua.
+- **Master Informatique et Systèmes Intelligents** — Faculté des Sciences, Université de Bertoua *(en cours)*.
+- **Licence en Informatique fondamentale** — Université de Bertoua.
+- **Baccalauréat série C** — Collège Adventiste Bilingue de Bertoua.
 
 ---
 
-💼 Expériences professionnelles
+## 💼 Expériences professionnelles
 
-🌐 Stagiaire en réseaux informatiques
-
-Overline Voyages — Bertoua | Août – Septembre 2025
+### 🌐 Stagiaire en réseaux informatiques
+**Overline Voyages — Bertoua | Août – Septembre 2025**
 
 - Installation des équipements informatiques.
 - Réalisation et configuration de câbles réseau.
 - Mise en place de réseaux locaux filaires.
 - Connexion et configuration des équipements.
 
-🗂️ Stagiaire assistant de bureau
-
-Ets RIGO — Bertoua | Février – Mars 2025
+### 🗂️ Stagiaire assistant de bureau
+**Ets RIGO — Bertoua | Février – Mars 2025**
 
 - Saisie et traitement de documents administratifs.
 - Création de certificats et de billets d’invitation.
@@ -78,7 +70,7 @@ Ets RIGO — Bertoua | Février – Mars 2025
 
 ---
 
-📊 Mes objectifs
+## 📊 Mes objectifs
 
 - 📚 Approfondir mes connaissances en programmation.
 - 🌍 Développer des applications web et mobiles.
@@ -88,14 +80,14 @@ Ets RIGO — Bertoua | Février – Mars 2025
 
 ---
 
-🌍 Langues
+## 🌍 Langues
 
 - 🇫🇷 Français
 - 🇬🇧 Anglais : niveau débutant
 
 ---
 
-⚽ Centres d’intérêt
+## ⚡ Centres d’intérêt
 
 - ⚽ Football
 - 🎵 Musique
@@ -104,12 +96,14 @@ Ets RIGO — Bertoua | Février – Mars 2025
 
 ---
 
-📫 Me contacter
+## 📫 Me contacter
 
-- 📧 Email : "Raoullontsie@gmail.com" (mailto:Raoullontsie@gmail.com)
-- 📍 Localisation : Bertoua, Cameroun
-- 🐙 GitHub : "@Raoul06" (https://github.com/Raoul06)
+- 📧 **Email :** [Raoullontsie@gmail.com](mailto:Raoullontsie@gmail.com)
+- 📍 **Localisation :** Bertoua, Cameroun
+- 🐙 **GitHub :** [@Raoul06](https://github.com/Raoul06)
 
 ---
 
-⭐ Merci de visiter mon profil GitHub ! N’hésitez pas à découvrir mes projets et à me contacter pour échanger ou collaborer.
+⭐ **Merci de visiter mon profil GitHub !**
+
+*Découvrons ensemble les possibilités offertes par la technologie.
